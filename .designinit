@@ -1,0 +1,8 @@
+PDK_ROOT=/foss/pdks
+PDK=sky130A
+PDKPATH=/foss/pdks/sky130A
+STD_CELL_LIBRARY=sky130_fd_sc_hd
+SPICE_USERINIT_DIR=/foss/pdks/sky130A/libs.tech/ngspice
+KLAYOUT_PATH=/headless/.klayout:/foss/pdks/sky130A/libs.tech/layout:/foss/pdks/sky130A/libs.tech/klayout/tech
+PATH=$PATH:/foss/designs/librelane_summary
+
